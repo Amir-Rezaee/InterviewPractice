@@ -10,3 +10,5 @@ namespace Application.Interfaces
         Task<List<T>> GetData<T>(string url);
     }
 }
+
+test
